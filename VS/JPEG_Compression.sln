@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "JPEG_Compression", "JPEG_Compression\JPEG_Compression.pyproj", "{AB1AB286-D07F-469D-B08F-CE968550F5A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB1AB286-D07F-469D-B08F-CE968550F5A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB1AB286-D07F-469D-B08F-CE968550F5A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8756314F-CC7B-46EE-9BE3-1136BE7ED2AB}
+	EndGlobalSection
+EndGlobal
